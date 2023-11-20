@@ -2,6 +2,10 @@
 # Time Series Forecasting
 **Assignment 2** of  the course *Artificial Neural Networks and Deep Learning* at *Politecnico di Milano*: Deep Learning models to to predict future samples of a multivariate time series. The goal is to design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the future.
 
+**Authors:**
+- Denaldo Lapi
+- Fabio Raffaeli
+
 We were provided with the training dataset, while models were evaluated on a hidden test dataset (not provided). Details about the evaluation procedure are reported [here](https://codalab.lisn.upsaclay.fr/competitions/621#learn_the_details-evaluation)
 
 Project realized with *Keras* module in *Python*.
